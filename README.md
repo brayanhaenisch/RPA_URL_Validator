@@ -41,4 +41,4 @@ Criar um script em Python que leia uma lista de URLs, faça requisições HTTP a
 ## Tecnologias / Bibliotecas
 - *Python 3.x*  
 - *requests* (pip install requests)  
-- Módulos da Stdlib: csv, argparse, time (para pausas), logging (opcional)
+- Módulos da Stdlib: csv, argparse, time (para pausas), logging (opcional);
